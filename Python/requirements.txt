@@ -1,0 +1,6 @@
+jupyter
+pyserial
+pandas
+matplotlib
+hvplot
+streamz
